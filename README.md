@@ -122,10 +122,10 @@ dotnet run
 
 La API estará disponible en:
 
-https://localhost:5222
+http://localhost:5222
 
 4️⃣ Abrir Swagger
-https://localhost:5222/swagger
+http://localhost:5222/swagger
 
 🔧 Configuración de Base de Datos
 
